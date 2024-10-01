@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+	"gator/internal/config"
 	"log"
 
-	"github.com/bootdotdev/gator/internal/config"
+	"github.com/H-Len/gator/internal/config"
 )
 
 func main() {
