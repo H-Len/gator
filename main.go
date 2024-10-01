@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"gator/internal/config"
 	"log"
 
 	"github.com/H-Len/gator/internal/config"
