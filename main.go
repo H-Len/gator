@@ -14,7 +14,7 @@ func main() {
 	}
 	fmt.Printf("Read config: %+v\n", cfg)
 
-	err = cfg.SetUser("lane")
+	err = cfg.SetUser("hannah")
 
 	cfg, err = config.Read()
 	if err != nil {
